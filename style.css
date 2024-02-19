@@ -1,0 +1,42 @@
+body{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h3, h5{
+    color: blue;
+}
+
+.bahan, .langkah{
+    color: green;
+}
+
+.nasi-goreng{
+    font-size: 50px;
+    text-align: left;
+}
+
+#judul{
+    color: purple;
+}
+
+button{
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    margin-top: 25px;
+}
+
+button:hover {
+    background-color: green; /* Green */
+    color: black;
+}
+
+/* .foto{
+    height: 750px;
+    margin-left: 300px;
+    margin-right: 300px;
+} */

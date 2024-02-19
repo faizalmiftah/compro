@@ -1,0 +1,21 @@
+.foto{
+    height: 450px;
+    margin-left: 500px;
+    margin-right: 500px;
+} 
+
+body{
+    background-color: aqua;
+}
+
+.list{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+h1,h3{
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
